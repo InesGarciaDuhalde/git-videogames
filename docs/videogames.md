@@ -30,9 +30,10 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
+Son un género de videojuegos que se caracteriza por exigir agilidad mental al jugador para resolver enigmas por lo regular en una sola pantalla. Pueden o no tener una historia detrás. Algunos videojuegos involucran problemas de lógica, matemáticas, estrategia, reconocimiento de patrones, completar palabras o hasta simple azar. El género puede ser difícil de describir, pues cada uno tiene su estilo único.
+[Wikipedia](https://es.wikipedia.org/wiki/Videojuego_de_l%C3%B3gica)
 
-- Tetris
+- [Tetris](./puzzle/tetris.md) 
 
 ## Sandbox
 
